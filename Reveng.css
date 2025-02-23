@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Pacifico", cursive ;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFFBE9 ;
+    color: #42C2FF;
+    text-align: center;
+}
+header{
+    background-color: #E3CAA5;
+    padding: 20px ;
+}
+.sec {
+    list-style: none;
+    display: inline;
+}
+.secli{
+    text-decoration: none;
+    padding: 0;
+    display: inline;
+}
+a{
+   display: inline;
+   margin: 0 2px;
+   text-decoration: none;
+   color: #42C2FF;
+}
+section{
+    padding: 40px 0;
+}
+.continer{
+    margin: 60px 300px;
+    gap: 100px;
+    display: flex;
+}
+.ulli{
+    margin-top: 90px;
+}
+.lern{
+    list-style: none;
+}
+.sphcjg{
+    display: flex;
+    align-items: center;
+    transform: translateY(10px);
+}
+.sphcjg:hover{
+    transform: scale(1.9);
+}
